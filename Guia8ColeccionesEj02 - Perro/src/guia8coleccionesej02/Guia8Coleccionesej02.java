@@ -53,7 +53,7 @@ public class Guia8Coleccionesej02 {
         }
         
                 if(check == true){
-                System.out.println("La raza se elimino corectamente");
+                System.out.println("La raza se elimino correctamente");
                 Collections.sort(razasPerros);
                 for (String razas : razasPerros) {//voy mostrando la lista
                 System.out.println(razas);

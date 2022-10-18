@@ -31,6 +31,7 @@ public class ServiceJugador {
                 System.out.println("");
             } while (!(opcion.equalsIgnoreCase("s") || opcion.equalsIgnoreCase("n")));
         } while(opcion.equalsIgnoreCase("s"));
+        
         return jugadores;
     }
     
